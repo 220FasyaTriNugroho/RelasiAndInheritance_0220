@@ -2,3 +2,7 @@
 #define IBU_H
 
 class ibu
+{
+public:
+    
+};
