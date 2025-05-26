@@ -17,6 +17,10 @@ class pasien {
     void cetakDokter();
 };
 
+class dokter{
+
+};
+
 
 int main(){
 
