@@ -9,7 +9,11 @@ public:
 
     ibu(string pNama) : nama(pNama)
     {
-        cout << "Ibu \"" << nama << "\" tidak ada\n";
+        cout << "Ibu \"" << nama << "\" ada\n";
+    }
+    ~ibu()
+    {
+        cout << "Ibu \n"" << nama << ""\" tidak ada\n";
     }
     
 };
